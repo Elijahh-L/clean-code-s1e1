@@ -50,11 +50,14 @@
   padding: 0px;
 }
 
-.list__item, .title {
+.list__item, 
+.title {
   list-style: none;
 }
 
-.task-text, .task-checkbox, .button{
+.task-text, 
+.task-checkbox, 
+.button{
   outline: none;
 }
 
